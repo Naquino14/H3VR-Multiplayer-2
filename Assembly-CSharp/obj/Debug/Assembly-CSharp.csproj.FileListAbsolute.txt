@@ -1,2 +1,0 @@
-D:\CSharp Projects\H3VR-Multiplayer-2\Assembly-CSharp\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
-D:\CSharp Projects\H3VR-Multiplayer-2\Assembly-CSharp\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
