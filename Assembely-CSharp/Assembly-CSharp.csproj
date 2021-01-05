@@ -10,6 +10,12 @@
   </PropertyGroup>
   <PropertyGroup />
   <ItemGroup>
+    <None Remove="DRP\Plugins\x86_64\discord-rpc.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="DRP\Plugins\x86_64\discord-rpc.dll" />
+  </ItemGroup>
+  <ItemGroup>
     <Reference Include="Assembly-CSharp-firstpass">
       <HintPath>..\..\..\SteamLibrary\steamapps\common\H3VR\h3vr_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
     </Reference>
