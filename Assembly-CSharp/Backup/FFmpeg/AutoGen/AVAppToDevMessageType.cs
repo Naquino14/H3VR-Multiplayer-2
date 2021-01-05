@@ -1,0 +1,24 @@
+﻿// Decompiled with JetBrains decompiler
+// Type: FFmpeg.AutoGen.AVAppToDevMessageType
+// Assembly: Assembly-CSharp, Version=1.2.0.0, Culture=neutral, PublicKeyToken=null
+// MVID: 0E76EF54-A563-4796-92B9-C7AE2338A28D
+// Assembly location: D:\SteamLibrary\steamapps\common\H3VR\h3vr_Data\Managed\Assembly-CSharp.dll
+
+namespace FFmpeg.AutoGen
+{
+  public enum AVAppToDevMessageType
+  {
+    AV_APP_TO_DEV_MUTE = 541939028, // 0x204D5554
+    AV_APP_TO_DEV_WINDOW_SIZE = 1195724621, // 0x47454F4D
+    AV_APP_TO_DEV_GET_MUTE = 1196250452, // 0x474D5554
+    AV_APP_TO_DEV_GET_VOLUME = 1196838732, // 0x47564F4C
+    AV_APP_TO_DEV_NONE = 1313820229, // 0x4E4F4E45
+    AV_APP_TO_DEV_PAUSE = 1346458912, // 0x50415520
+    AV_APP_TO_DEV_TOGGLE_PAUSE = 1346458964, // 0x50415554
+    AV_APP_TO_DEV_PLAY = 1347174745, // 0x504C4159
+    AV_APP_TO_DEV_WINDOW_REPAINT = 1380274241, // 0x52455041
+    AV_APP_TO_DEV_SET_VOLUME = 1398165324, // 0x53564F4C
+    AV_APP_TO_DEV_TOGGLE_MUTE = 1414354260, // 0x544D5554
+    AV_APP_TO_DEV_UNMUTE = 1431131476, // 0x554D5554
+  }
+}

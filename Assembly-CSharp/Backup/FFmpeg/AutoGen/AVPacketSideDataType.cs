@@ -1,0 +1,31 @@
+﻿// Decompiled with JetBrains decompiler
+// Type: FFmpeg.AutoGen.AVPacketSideDataType
+// Assembly: Assembly-CSharp, Version=1.2.0.0, Culture=neutral, PublicKeyToken=null
+// MVID: 0E76EF54-A563-4796-92B9-C7AE2338A28D
+// Assembly location: D:\SteamLibrary\steamapps\common\H3VR\h3vr_Data\Managed\Assembly-CSharp.dll
+
+namespace FFmpeg.AutoGen
+{
+  public enum AVPacketSideDataType
+  {
+    AV_PKT_DATA_PALETTE = 0,
+    AV_PKT_DATA_NEW_EXTRADATA = 1,
+    AV_PKT_DATA_PARAM_CHANGE = 2,
+    AV_PKT_DATA_H263_MB_INFO = 3,
+    AV_PKT_DATA_REPLAYGAIN = 4,
+    AV_PKT_DATA_DISPLAYMATRIX = 5,
+    AV_PKT_DATA_STEREO3D = 6,
+    AV_PKT_DATA_AUDIO_SERVICE_TYPE = 7,
+    AV_PKT_DATA_QUALITY_STATS = 8,
+    AV_PKT_DATA_FALLBACK_TRACK = 9,
+    AV_PKT_DATA_CPB_PROPERTIES = 10, // 0x0000000A
+    AV_PKT_DATA_SKIP_SAMPLES = 70, // 0x00000046
+    AV_PKT_DATA_JP_DUALMONO = 71, // 0x00000047
+    AV_PKT_DATA_STRINGS_METADATA = 72, // 0x00000048
+    AV_PKT_DATA_SUBTITLE_POSITION = 73, // 0x00000049
+    AV_PKT_DATA_MATROSKA_BLOCKADDITIONAL = 74, // 0x0000004A
+    AV_PKT_DATA_WEBVTT_IDENTIFIER = 75, // 0x0000004B
+    AV_PKT_DATA_WEBVTT_SETTINGS = 76, // 0x0000004C
+    AV_PKT_DATA_METADATA_UPDATE = 77, // 0x0000004D
+  }
+}
