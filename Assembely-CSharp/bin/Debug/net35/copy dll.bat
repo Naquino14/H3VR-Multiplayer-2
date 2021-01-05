@@ -1,0 +1,1 @@
+xcopy /s/y "D:\CSharp Projects\H3VR-Multiplayer-2\Assembely-CSharp\bin\Debug\net35\Assembly-CSharp" "D:\SteamLibrary\steamapps\common\H3VR\h3vr_Data\Managed"
