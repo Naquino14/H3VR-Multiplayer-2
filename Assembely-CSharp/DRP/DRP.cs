@@ -26,7 +26,7 @@ namespace H3VRMultiplayer2.DRP
             Instantiate(DRPContainer);
 
             elapsedTime = (long)DateTime.UtcNow.Subtract(new DateTime(1970, 1, 1)).TotalSeconds;
-            PresenceManager.UpdatePresence(detail, state, elapsedTime);
+            PresenceManager.UpdatePresence(detail, state, elapsedTime, largeKey: "header");
         }
         public static void UpdateState(string _detail)
         {
