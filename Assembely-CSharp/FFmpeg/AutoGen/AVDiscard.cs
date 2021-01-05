@@ -1,0 +1,13 @@
+namespace FFmpeg.AutoGen
+{
+	public enum AVDiscard
+	{
+		AVDISCARD_NONE = -16,
+		AVDISCARD_DEFAULT = 0,
+		AVDISCARD_NONREF = 8,
+		AVDISCARD_BIDIR = 0x10,
+		AVDISCARD_NONINTRA = 24,
+		AVDISCARD_NONKEY = 0x20,
+		AVDISCARD_ALL = 48
+	}
+}

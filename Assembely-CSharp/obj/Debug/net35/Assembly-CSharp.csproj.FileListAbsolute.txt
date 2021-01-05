@@ -1,0 +1,14 @@
+D:\CSharp Projects\H3VR-Multiplayer-2\Assembely-CSharp\obj\Debug\net35\Assembly-CSharp.csprojAssemblyReference.cache
+D:\CSharp Projects\H3VR-Multiplayer-2\Assembely-CSharp\obj\Debug\net35\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\CSharp Projects\H3VR-Multiplayer-2\Assembely-CSharp\bin\Debug\net35\Assembly-CSharp.dll
+D:\CSharp Projects\H3VR-Multiplayer-2\Assembely-CSharp\bin\Debug\net35\Assembly-CSharp.pdb
+D:\CSharp Projects\H3VR-Multiplayer-2\Assembely-CSharp\bin\Debug\net35\Assembly-CSharp-firstpass.dll
+D:\CSharp Projects\H3VR-Multiplayer-2\Assembely-CSharp\bin\Debug\net35\DinoFracture.dll
+D:\CSharp Projects\H3VR-Multiplayer-2\Assembely-CSharp\bin\Debug\net35\ES2.dll
+D:\CSharp Projects\H3VR-Multiplayer-2\Assembely-CSharp\bin\Debug\net35\UnityEngine.dll
+D:\CSharp Projects\H3VR-Multiplayer-2\Assembely-CSharp\bin\Debug\net35\UnityEngine.UI.dll
+D:\CSharp Projects\H3VR-Multiplayer-2\Assembely-CSharp\bin\Debug\net35\Valve.Newtonsoft.Json.dll
+D:\CSharp Projects\H3VR-Multiplayer-2\Assembely-CSharp\bin\Debug\net35\MoodkieSecurity.dll
+D:\CSharp Projects\H3VR-Multiplayer-2\Assembely-CSharp\obj\Debug\net35\Assembly-CSharp.csproj.CopyComplete
+D:\CSharp Projects\H3VR-Multiplayer-2\Assembely-CSharp\obj\Debug\net35\Assembly-CSharp.dll
+D:\CSharp Projects\H3VR-Multiplayer-2\Assembely-CSharp\obj\Debug\net35\Assembly-CSharp.pdb

@@ -1,0 +1,35 @@
+namespace FistVR
+{
+	public enum BulletImpactSoundType
+	{
+		None,
+		ArmorHard,
+		ArmorSoft,
+		Brick,
+		Concrete,
+		Generic,
+		Glass,
+		GlassBulletProof,
+		GlassShattery,
+		GlassWindshield,
+		Grass,
+		Gravel,
+		Ice,
+		Meat,
+		MetalRicochetee,
+		MetalThick,
+		MetalThin,
+		Mud,
+		Plaster,
+		Plastic,
+		Rock,
+		Sand,
+		Sandbag,
+		SoftMaterial,
+		Water,
+		WoodHeavy,
+		WoodLight,
+		WoodProp,
+		ZWhooshes
+	}
+}
